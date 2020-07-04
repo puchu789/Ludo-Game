@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #2F4F4F;
+  font-family: arial;
+}
+.container{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+.dice{
+  text-align: center;
+  display:inline-block;
+  padding: 20px;
+}
+h1{
+  margin: 30px;
+  text-shadow: 5px 5px blue;
+  color: yellow;
+  font-size: 60px;
+}
+p{
+  font-size: 35px;
+  color: yellow;
+  text-shadow: 2px 2px blue;
+  margin-bottom: 20px;
+}
+button{
+  padding: 10px;
+  text-align: center;
+  background-color: #00b894;
+  border: 0px;
+  margin: 0px 200px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: white;
+}
+img{
+  width:250px;
+  border-radius: 40px;
+}
