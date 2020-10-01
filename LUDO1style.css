@@ -3,10 +3,10 @@
   padding: 0;
 }
 body{
-  margin: 0;
-  padding: 0;
-  background-color: #2F4F4F;
-  font-family: arial;
+  margin: 15 px;
+  padding: 15 px;
+  background-color: blue;
+  font-family: Italic;
 }
 .container{
   width: 70%;
